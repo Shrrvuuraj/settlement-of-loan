@@ -69,7 +69,7 @@ export default function Services() {
       <div className="max-w-7xl mx-auto px-6 lg:px-8">
         {/* Header */}
         <div className="text-center mb-16 section-reveal">
-          <span className="inline-block text-[#FFD700] text-xs font-mono tracking-[0.2em] uppercase mb-4 border border-[#FFD700]/40 rounded-full px-3 py-1 bg-[#0B1F3A]/5">
+          <span className="inline-block text-black text-xs font-mono tracking-[0.2em] uppercase mb-4 border-2 border-black rounded-full px-3 py-1 bg-white hover:text-yellow-400 hover:bg-black duration-300 hover:shadow-[rgba(0,0,0,0.35)_0px_5px_15px]">
             What We Do
           </span>
           <h2 className="font-display text-4xl lg:text-5xl font-bold text-[#0B1F3A] mb-5">

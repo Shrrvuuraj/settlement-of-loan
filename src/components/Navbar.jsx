@@ -29,7 +29,7 @@ export default function Navbar() {
           </div>
           <div>
             <span className="font-display font-700 text-white text-xl tracking-tight">
-              Lex<span className="text-[#FFD700]">Settle</span>
+              Settlement  <span className='text-green-200'>Of</span>  <span className="text-[#FFD700]">Loan</span>
             </span>
             <div className="text-[9px] text-white/40 tracking-[0.15em] uppercase font-mono -mt-0.5">
               Legal Financial Services
